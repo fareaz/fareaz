@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK" alt="Banner" width="100%" />
+</p>
 
-<!--
-**fareaz/fareaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Faraez Uddin</h1>
+<h3 align="center">Frontend Web Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me  
+I’m a passionate web developer learning and building modern, clean, and responsive web applications.  
+Currently focused on improving my frontend skills and slowly transitioning into full-stack development.
+
+### 🔸 Current Activities
+- Exploring **Next.js**
+- Building a **React + Firebase project**
+- Learning **Node.js & Express.js**
+- Improving UI skills with **Tailwind CSS**
+
+---
+
+## 🛠️ Skills  
+<p align="left">
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html" width="45px"/>
+<img src="https://skillicons.dev/icons?i=css" width="45px"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="45px"/>
+<img src="https://skillicons.dev/icons?i=js" width="45px"/>
+<img src="https://skillicons.dev/icons?i=react" width="45px"/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs" width="45px"/>
+<img src="https://skillicons.dev/icons?i=express" width="45px"/>
+
+<!-- Database -->
+<img src="https://skillicons.dev/icons?i=mongodb" width="45px"/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=firebase" width="45px"/>
+<img src="https://skillicons.dev/icons?i=git" width="45px"/>
+<img src="https://skillicons.dev/icons?i=github" width="45px"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/fareaz-uddin-6251a4392/)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
+  </a>
+ 
+  <a href="mailto:fareazuddin22@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45px"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" width="44%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" width="60%" />
+</p>
+
+---
