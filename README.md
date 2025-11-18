@@ -57,12 +57,13 @@ Currently focused on improving my frontend skills and slowly transitioning into 
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" width="52%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fareaz&show_icons=true&hide_border=true&theme=transparent" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareaz&layout=compact&hide_border=true&theme=transparent" width="44%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=fareaz&theme=transparent&hide_border=true" width="60%" />
 </p>
+
 
 ---
