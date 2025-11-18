@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="ChatGPT Image Nov 18, 2025, 10_38_54 PM.png" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Faraez Uddin</h1>
