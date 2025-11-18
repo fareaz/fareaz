@@ -24,25 +24,23 @@ Currently focused on improving my frontend skills and slowly transitioning into 
 <p align="left">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html" width="45px"/>
-<img src="https://skillicons.dev/icons?i=css" width="45px"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="45px"/>
-<img src="https://skillicons.dev/icons?i=js" width="45px"/>
-<img src="https://skillicons.dev/icons?i=react" width="45px"/>
+### 🌐 Frontend  
+![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,react)
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs" width="45px"/>
-<img src="https://skillicons.dev/icons?i=express" width="45px"/>
+### 🖥️ Backend  
+![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express)
 
 <!-- Database -->
-<img src="https://skillicons.dev/icons?i=mongodb" width="45px"/>
+### 🗄️ Database  
+![Database Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb)
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=firebase" width="45px"/>
-<img src="https://skillicons.dev/icons?i=git" width="45px"/>
-<img src="https://skillicons.dev/icons?i=github" width="45px"/>
+### ⚙️ Tools  
+![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=github,git,firebase)
 
 </p>
+
 
 ---
 
