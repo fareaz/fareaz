@@ -48,7 +48,7 @@ Currently focused on improving my frontend skills and slowly transitioning into 
 
 ## 🌐 Connect With Me  
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/fareaz-uddin-6251a4392/
+🔗 **LinkedIn:** https://www.linkedin.com/in/fareaz-uddin-6251a4392/ <br/>
 📧 **Email:** fareazuddin22@gmail.com
 
 
