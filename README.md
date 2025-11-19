@@ -13,7 +13,7 @@ I’m a passionate web developer learning and building modern, clean, and respon
 Currently focused on improving my frontend skills and slowly transitioning into full-stack development.
 
 ### 🔸 Current Activities
-- Exploring **Next.js**
+- Exploring **Nodejs,Express.js**
 - Building a **React + Firebase project**
 - Learning **Node.js & Express.js**
 - Improving UI skills with **Tailwind CSS**
