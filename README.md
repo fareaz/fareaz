@@ -52,6 +52,12 @@ Currently focused on improving my frontend skills and slowly transitioning into 
 
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wasin87&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
+---
 
 ## 📊 GitHub Stats  
 <p align="center">
